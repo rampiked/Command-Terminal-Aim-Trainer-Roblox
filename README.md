@@ -1,4 +1,4 @@
-Matt Sagat - Personal Project, Command Terminal-Based Aim Trainer
+Matt Sagat - Personal Project, Roblox Command Terminal-Based Aim Trainer
 
 FOR THE BEST UNDERSTANDING OF THIS NICHE PROJECT, I STRONGLY RECOMMEND WATCHING THESE YOUTUBE VIDEOS BEFORE DIGGING THROUGH THE REPOSITORY
 
