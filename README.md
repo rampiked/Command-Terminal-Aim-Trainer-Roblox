@@ -9,11 +9,17 @@ Included Github File Overview: https://www.youtube.com/watch?v=wsWg5wNnPVQ
 This tool allows those in the Roblox RCL community to easily get aiming practice against bots in customizable environments. 
 
 Full list of current features:
+
 /set wall dist [num] --Sets the wall to be num studs from the center of the map (user spawn point).
+
 /set wall color [color] --Changes the wall color to the user specified color.
+
 /set cursor [cursor id] --Changes the user's cursor using a Roblox image asset ID.
+
 /set bot quantity [num] --Updates the quantity of bots within the arena.
+
 /acc --Prints the user's current accuracy into the terminal.
+
 /resetacc --Resets the user's accuracy.
 
 I personally wrote everything other than the code that positions the held gun in the user character's arms. I didn't even upload that file but it is not important.
